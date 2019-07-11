@@ -1,0 +1,10 @@
+Reporting_Year,Reporting_Quarter,Rx_Opioids_Prescriptions,Rx_Opioids_Doses,OD_Deaths_Rx_Opioids,OD_Deaths_Fentanyl,OD_Deaths_Fentanyl_And_Rx_Opioids,OD_Deaths_Heroin,OD_Deaths_Heroin_And_Rx_Opioids,OD_Deaths_Heroin_And_Fentanyl,OD_Deaths_Total_Opioids-Related,OD_Deaths_Non-Opioids,OD_Deaths_Rx_Non-Opioids,OD_Deaths_Overall_Total,Drug-Related_Arrests,Rx_Burglaries_Completed,Rx_Burglaries_Attempted,Naloxone_Administrations,Admissions_First,Admissions_Second,Admissions_Third,Admissions_Total,Patients_Admitted_First,Patients_Admitted_Second,Patients_Admitted_Third,Patients_Admitted_Total,Admissions_Heroin,Admissions_Methadone,Admissions_Other_Opioids,Admissions_All_Opioids_Total,Patients_Admitted_Heroin,Patients_Admitted_Methadone,Patients_Admitted_Other_Opioids,Patients_Admitted_All_Opioids_Total
+2017,1,866893,48459335,7,2,4,4,1,0,18,9,0,27,5284,11,99999,474,1050,487,210,1747,349,175,76,600,529,42,1176,1747,172,14,414,600
+2017,2,855803,47418432,12,7,4,5,1,2,31,7,2,40,5184,11,99999,546,1106,505,214,1825,359,183,93,635,496,9,1320,1825,162,6,467,635
+2017,3,814459,44846107,24,8,11,9,0,0,52,10,14,76,4818,12,99999,503,1122,593,194,1909,361,194,80,635,545,12,1352,1909,174,6,455,635
+2017,4,765724,42158570,39,3,12,11,0,6,71,23,18,112,4364,4,99999,562,1363,613,277,2253,417,184,95,696,666,53,1534,2253,215,17,464,696
+2018,1,698737,37487485,33,3,7,6,0,5,54,26,13,93,4454,9,2,520,1404,572,280,2256,417,182,92,691,591,28,1637,2256,187,9,495,691
+2018,2,700136,36325735,23,2,7,3,3,3,41,21,6,68,4279,4,3,489,1075,513,196,1784,428,172,72,672,393,25,1366,1784,199,13,460,672
+2018,3,702365,36427097,29,8,4,9,5,7,62,25,13,100,4406,3,1,381,1019,384,251,1654,376,164,68,608,576,13,1065,1654,165,13,430,608
+2018,4,678984,35503569,26,5,8,6,6,2,53,19,9,81,3846,2,1,350,817,428,161,1406,360,151,66,577,400,26,980,1406,179,8,390,577
+2019,1,644469,33055691,11,3,5,7,1,3,30,10,11,51,4838,1,2,270,935,464,225,1624,367,174,86,627,536,15,1073,1624,209,9,409,627
